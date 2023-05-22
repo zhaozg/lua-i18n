@@ -1,4 +1,4 @@
-local variants = require 'i18n.variants'
+local variants = require 'i18n/variants'
 
 describe("i18n.variants", function()
   it("is a table", function()

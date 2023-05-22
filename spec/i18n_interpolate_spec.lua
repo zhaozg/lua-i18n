@@ -1,6 +1,6 @@
 require 'spec.fixPackagePath'
 
-local interpolate = require 'i18n.interpolate'
+local interpolate = require 'i18n/interpolate'
 
 describe('i18n.interpolate', function()
   it("exists", function()

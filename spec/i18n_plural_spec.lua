@@ -1,6 +1,6 @@
 require 'spec.fixPackagePath'
 
-local plural = require 'i18n.plural'
+local plural = require 'i18n/plural'
 
 describe('i18n.plural', function()
   before_each(plural.reset)
