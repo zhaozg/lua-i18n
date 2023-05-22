@@ -1,3 +1,14 @@
+--[[lit-meta
+  name = "kikito/i18n"
+  version = "0.9.2"
+  tags = {"lua", "i18n", "luvit"}
+  author = {
+    name = "Enrique García Cota",
+    url = {
+      "https://github.com/kikito/i18n.lua.git",
+    }
+  }
+]]
 local i18n = {}
 
 local store
